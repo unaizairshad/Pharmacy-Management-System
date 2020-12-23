@@ -1,0 +1,42 @@
+
+.img{
+background-image:url("projectbackground.jpg");
+}
+
+body{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+h1{
+padding-top:180px;
+font-family: "Times New Roman", Times, serif;
+text-align:center;
+color:#F0FFF0;
+font-size:40px;
+}
+
+h2{
+padding:30px;
+text-align:center;
+color:#FFF0F5;
+font-size:33px;
+}
+
+.a{
+text-align:center;
+}
+
+.btn{
+background-color:#191970;
+border:none;
+padding:20px 30px;
+margin-right:110px;
+margin-left: 130px ;
+color:#90EE90;
+font-size:20px;
+
+}
+
+
